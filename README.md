@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sai Harshitha 👋
 
-<!--
-**Saiharshi1/Saiharshi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Health Data Science Graduate Student at Saint Louis University  
+📊 Focused on Public Health Analytics, Predictive Modeling, and Healthcare Data  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- R (dplyr, ggplot2)
+- Python (pandas, matplotlib)
+- SQL
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Sleep Duration & Hypertension (NHANES)
+
+## 📫 Contact
+- Email: Saiharshithakonduru@gmail.com
+- LinkedIn: www.linkedin.com/in/shkonduru
