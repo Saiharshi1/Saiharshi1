@@ -1,6 +1,6 @@
 # Hi, I'm Sai Harshitha 👋
 
-🎓 Health Data Science Graduate at Saint Louis University  
+🎓 Health Data Science Graduate student at Saint Louis University  
 📊 Focused on Public Health Analytics, Machine Learning, and Healthcare Data  
 
 ---
