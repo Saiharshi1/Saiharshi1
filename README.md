@@ -11,7 +11,8 @@
 
 ## 📌 Projects
 - Sleep Duration & Hypertension (NHANES)
-- - Heart Disease Analysis
+- Heart Disease Analysis
+
 Note: Additional repositories include academic coursework and assignments.
 
 ## 📫 Contact
