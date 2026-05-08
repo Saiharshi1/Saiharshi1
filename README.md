@@ -11,6 +11,8 @@
 
 ## 📌 Projects
 - Sleep Duration & Hypertension (NHANES)
+- - Heart Disease Analysis
+Note: Additional repositories include academic coursework and assignments.
 
 ## 📫 Contact
 - Email: Saiharshithakonduru@gmail.com
