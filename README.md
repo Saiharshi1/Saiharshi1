@@ -1,20 +1,41 @@
 # Hi, I'm Sai Harshitha 👋
 
 🎓 Health Data Science Graduate Student at Saint Louis University  
-📊 Focused on Public Health Analytics, Predictive Modeling, and Healthcare Data  
+📊 Focused on Public Health Analytics, Machine Learning, and Healthcare Data  
 
-## 🔧 Skills
+## 🚀 Featured Projects
+
+### 🩺 Sleep Duration & Hypertension (NHANES)
+👉 https://saiharshi1.github.io/sleep-hypertension-nhanes/analysis.html  
+- Logistic regression analysis on NHANES (2017–2023)  
+- Identified association between sleep duration and hypertension  
+- Built using R and statistical modeling  
+
+---
+
+### ❤️ Heart Disease Analysis
+👉 https://github.com/saiharshi1/heart-disease-analysis  
+- Exploratory data analysis and classification  
+- Identified key risk factors (age, cholesterol, BP)  
+- Built using Python (Pandas, Matplotlib)  
+
+---
+
+## 🛠️ Skills
 - R (dplyr, ggplot2)
-- Python (pandas, matplotlib)
+- Python (Pandas, NumPy)
 - SQL
-- Power BI
+- Data Visualization
+- Statistical Modeling
+- Machine Learning (basic)
 
-## 📌 Projects
-- Sleep Duration & Hypertension (NHANES)
-- Heart Disease Analysis
+---
 
-Note: Additional repositories include academic coursework and assignments.
+## 📌 Note
+Additional repositories include academic coursework and assignments.
+
+---
 
 ## 📫 Contact
-- Email: Saiharshithakonduru@gmail.com
-- LinkedIn: www.linkedin.com/in/shkonduru
+- Email: (your email)
+- LinkedIn: (your LinkedIn link)
