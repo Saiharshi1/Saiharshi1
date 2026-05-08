@@ -29,7 +29,8 @@
 - SQL
 - Data Visualization
 - Statistical Modeling
-- Machine Learning (basic)
+- Machine Learning
+- Public Health Analytics
 
 ---
 
@@ -39,5 +40,5 @@ Additional repositories include academic coursework and assignments.
 ---
 
 ## 📫 Contact
-- Email: (your email)
-- LinkedIn: (your LinkedIn link)
+- Email: saiharshithakonduru@gmail.com
+- LinkedIn: www.linkedin.com/in/shkonduru
