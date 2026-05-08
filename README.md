@@ -3,6 +3,8 @@
 🎓 Health Data Science Graduate Student at Saint Louis University  
 📊 Focused on Public Health Analytics, Machine Learning, and Healthcare Data  
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🩺 Sleep Duration & Hypertension (NHANES)
